@@ -1,0 +1,33 @@
+2026/03/14 17:24:25Z: Windows sysprep configuration complete.
+2026/03/14 17:24:31Z: Message: Waiting for meta-data accessibility...
+2026/03/14 17:24:31Z: Message: Meta-data is now available.
+2026/03/14 17:24:32Z: AMI Origin Version: 2026.02.11
+2026/03/14 17:24:32Z: AMI Origin Name: Windows_Server-2019-English-Full-Base
+2026/03/14 17:24:32Z: OS: Microsoft Windows NT 10.0
+2026/03/14 17:24:32Z: OsProductName: Windows Server 2019 Datacenter
+2026/03/14 17:24:32Z: OsInstallOption: Full
+2026/03/14 17:24:32Z: OsVersion: 10.0
+2026/03/14 17:24:32Z: OsBuildLabEx: 17763.1.amd64fre.rs5_release.180914-1434
+2026/03/14 17:24:32Z: OsCurrentBuild: 17763
+2026/03/14 17:24:32Z: OsReleaseId: 1809
+2026/03/14 17:24:32Z: Language: en-US
+2026/03/14 17:24:32Z: TimeZone: Coordinated Universal Time
+2026/03/14 17:24:32Z: Offset: UTC 00:00:00
+2026/03/14 17:24:32Z: AMI-ID: ami-08a907777e5410897
+2026/03/14 17:24:32Z: Instance-ID: i-0cf3321646cc2d2e2
+2026/03/14 17:24:32Z: Instance Type: t2.micro
+2026/03/14 17:25:20Z: Driver: EC2 Windows Utility Driver v3.1.0.25 
+2026/03/14 17:25:20Z: Driver: AWS PV Driver Package v8.6.0 
+2026/03/14 17:25:35Z: Launch: EC2 Launch v1.4.183
+2026/03/14 17:25:35Z: SSM: Amazon SSM Agent v3.3.3598.0
+2026/03/14 17:25:36Z: HOSTNAME: EC2AMAZ-P2160P6
+2026/03/14 17:25:36Z: RDPCERTIFICATE-SUBJECTNAME: EC2AMAZ-P2160P6
+2026/03/14 17:25:36Z: RDPCERTIFICATE-THUMBPRINT: 12517E742E92FABE3392F5DF0BBBC22D3B031FC2
+2026/03/14 17:26:08Z: HibernationEnabled: false
+2026/03/14 17:26:12Z: EC2LaunchTelemetry: IsTelemetryEnabled=true
+2026/03/14 17:26:12Z: EC2LaunchTelemetry: AgentOsArch=windows_amd64
+2026/03/14 17:26:12Z: EC2LaunchTelemetry: IsAgentScheduledPerBoot=false
+2026/03/14 17:26:12Z: EC2LaunchTelemetry: IsUserDataScheduledPerBoot=false
+2026/03/14 17:26:12Z: EC2LaunchTelemetry: AgentCommandErrorCode=0
+2026/03/14 17:26:12Z: EC2LaunchTelemetry: AdminPasswordTypeCode=0
+2026/03/14 17:26:12Z: Message: Windows is Ready to use
